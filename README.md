@@ -11,11 +11,9 @@
 
 ### 具体报告（对应使用说明在文档内部）
 
-1. [wine-reviews.ipynb](./wine_reviews.ipynb)
+1. [Alzheimer Disease and Healthy Aging Data in US.ipynb](./Alzheimer Disease and Healthy Aging Data in US.ipynb)
 
-   [wine-reviews.html](./wine_reviews.html)
-  
-   [wine-reviews.pdf](./wine_reviews.pdf)
+   [Alzheimer Disease and Healthy Aging Data in US.pdf](./Alzheimer Disease and Healthy Aging Data in US.pdf)
 
 2. [oakland-crime-statistics-2011-to-2016.ipynb](./oakland.ipynb)
    
