@@ -13,7 +13,7 @@
 
 1. [Alzheimer_Disease_and_Healthy_Aging_Data_in_US.ipynb](./Alzheimer_Disease_and_Healthy_Aging_Data_in_US.ipynb)
 
-   [Alzheimer_Disease_and_Healthy_Aging_Data_in_US.pdf](./Alzheimer_Disease_and_Healthy_Aging_Data_in _US.pdf)
+   [Alzheimer_Disease_and_Healthy_Aging_Data_in_US.pdf](./Alzheimer_Disease_and_Healthy_Aging_Data_in_US.pdf)
 
 2. [oakland-crime-statistics-2011-to-2016.ipynb](./oakland.ipynb)
    
